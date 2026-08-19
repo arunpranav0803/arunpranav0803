@@ -1,51 +1,52 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=ARUNPRANAV%20KS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
-<h3 align="center">
-  DevSecOps Engineer • Cloud Security • Cybersecurity • Automation
-</h3>
-<p align="center">
-  Building secure, scalable & automated cloud infrastructure.
-</p>
-<p align="center">
-  <a href="https://github.com/arunpranav0803">
-    <img src="https://img.shields.io/badge/GitHub-arunpranav0803-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arunpranav-ks-b706b0245">
-    <img src="https://img.shields.io/badge/LinkedIn-Arunpranav%20KS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arunpranav0803@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:19B7FF&height=220&section=header&text=ARUNPRANAV%20KS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Security%20%7C%20Automation&descAlignY=58&descSize=18" width="100%"/>
 
-👨‍💻 About Me
+<br/>
 
-I’m Arunpranav KS, a DevSecOps Engineer focused on building secure, scalable and automated cloud infrastructure.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=19B7FF&center=true&vCenter=true&width=650&lines=Building+secure%2C+scalable+%26+automated+cloud+infra;AWS+%7C+Kubernetes+%7C+DevSecOps+%7C+Observability;Automate+%E2%80%A2+Secure+%E2%80%A2+Observe+%E2%80%A2+Scale)](https://git.io/typing-svg)
 
-Currently working at Cytrusst Intelligence, with hands-on experience across:
+<br/>
 
-* ☁️ AWS Cloud Infrastructure
-* 🔐 Cloud Security & DevSecOps
-* 🚀 CI/CD Automation
-* ☸️ Kubernetes & Amazon EKS
-* 🐳 Docker & Containerization
-* 🛡️ Security Monitoring & Threat Detection
-* 📊 Monitoring & Observability
-* ⚙️ Infrastructure Automation
-* 🐧 Linux Administration
-* 🔄 GitOps
+<a href="https://github.com/arunpranav0803"><img src="https://img.shields.io/badge/GitHub-arunpranav0803-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027"/></a>
+<a href="https://www.linkedin.com/in/arunpranav-ks-b706b0245"><img src="https://img.shields.io/badge/LinkedIn-Arunpranav%20KS-19B7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027"/></a>
+<a href="mailto:arunpranav0803@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-19B7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
+
+## 👨‍💻 About Me
+
+I'm **Arunpranav KS**, a DevSecOps Engineer focused on building secure, scalable and automated cloud infrastructure.
+
+Currently working at **Cytrusst Intelligence**, with hands-on experience across:
+
+<table>
+<tr>
+<td>☁️ AWS Cloud Infrastructure</td>
+<td>🔐 Cloud Security & DevSecOps</td>
+<td>🚀 CI/CD Automation</td>
+</tr>
+<tr>
+<td>☸️ Kubernetes & Amazon EKS</td>
+<td>🐳 Docker & Containerization</td>
+<td>🛡️ Security Monitoring & Threat Detection</td>
+</tr>
+<tr>
+<td>📊 Monitoring & Observability</td>
+<td>⚙️ Infrastructure Automation</td>
+<td>🐧 Linux Administration • 🔄 GitOps</td>
+</tr>
+</table>
 
 My professional experience includes Jenkins-based CI/CD deployments to Amazon EKS, CSPM remediation, Docker-based application deployments, security operations and infrastructure monitoring using Prometheus, Grafana and Blackbox Exporter.
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-☁️ Cloud & AWS
-
+<h4>☁️ Cloud & AWS</h4>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
@@ -57,8 +58,7 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-🚀 DevOps & CI/CD
-
+<h4>🚀 DevOps & CI/CD</h4>
 <p>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,8 +70,7 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
-☸️ Containers & Kubernetes
-
+<h4>☸️ Containers & Kubernetes</h4>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -80,8 +79,7 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
 </p>
 
-🔐 DevSecOps & Security
-
+<h4>🔐 DevSecOps & Security</h4>
 <p>
 <img src="https://img.shields.io/badge/Wazuh-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SentinelOne-6B21A8?style=for-the-badge"/>
@@ -92,8 +90,7 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-📊 Monitoring & Observability
-
+<h4>📊 Monitoring & Observability</h4>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -101,8 +98,7 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/Blackbox%20Exporter-E6522C?style=for-the-badge"/>
 </p>
 
-☕ Programming & Backend
-
+<h4>☕ Programming & Backend</h4>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -112,10 +108,11 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
 <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-🔥 DevSecOps Pipeline
+## 🔥 DevSecOps Pipeline
 
+```
                     ┌─────────────────┐
                     │    Developer    │
                     └────────┬────────┘
@@ -156,203 +153,152 @@ My professional experience includes Jenkins-based CI/CD deployments to Amazon EK
               ▼              ▼              ▼
          Prometheus       Grafana       Security
          Monitoring      Dashboard      Monitoring
+```
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📡 Real-Time API Monitoring
-
-Prometheus • Grafana • Blackbox Exporter • Alertmanager • Linux
+### 📡 Real-Time API Monitoring
+`Prometheus` `Grafana` `Blackbox Exporter` `Alertmanager` `Linux`
 
 Designed and implemented a scalable API monitoring solution for monitoring public and private endpoints.
 
-Key Features
+**Key Features**
+- Prometheus-based API monitoring
+- Blackbox Exporter endpoint probing
+- Alertmanager email notifications
+- Grafana dashboards
+- API health & response-time monitoring
+- Uptime tracking, designed to support monitoring of thousands of APIs
 
-* Prometheus-based API monitoring
-* Blackbox Exporter endpoint probing
-* Alertmanager email notifications
-* Grafana dashboards
-* API health monitoring
-* Response-time monitoring
-* Uptime tracking
-* Designed to support monitoring of thousands of APIs
+---
 
-⸻
-
-⚙️ Automated Web Application Deployment
-
-AWS • Linux • GitHub • Maven • Ansible • Apache Tomcat
+### ⚙️ Automated Web Application Deployment
+`AWS` `Linux` `GitHub` `Maven` `Ansible` `Apache Tomcat`
 
 Automated deployment of a web application to an AWS-hosted Linux server.
 
-Key Features
+**Key Features**
+- Infrastructure configuration using Ansible
+- Automated application deployment
+- Maven build automation
+- WAR deployment to Apache Tomcat
+- AWS Linux deployment workflow
 
-* Infrastructure configuration using Ansible
-* Automated application deployment
-* Maven build automation
-* WAR deployment to Apache Tomcat
-* AWS Linux deployment workflow
+---
 
-⸻
-
-🔄 CI/CD Web Application Deployment
-
-AWS • Linux • GitHub • Maven • Jenkins • Apache Tomcat
+### 🔄 CI/CD Web Application Deployment
+`AWS` `Linux` `GitHub` `Maven` `Jenkins` `Apache Tomcat`
 
 Built an end-to-end CI/CD pipeline to automatically build and deploy a portfolio web application.
 
-GitHub
-   ↓
-Jenkins
-   ↓
-Maven Build
-   ↓
-WAR Artifact
-   ↓
-Apache Tomcat
-   ↓
-AWS Linux Server
+```
+GitHub → Jenkins → Maven Build → WAR Artifact → Apache Tomcat → AWS Linux Server
+```
 
-Key Features
+**Key Features**
+- GitHub integration & Jenkins pipeline
+- Automated Maven builds
+- Automated WAR deployment
+- AWS-based deployment
 
-* GitHub integration
-* Jenkins pipeline
-* Automated Maven builds
-* Automated WAR deployment
-* AWS-based deployment
+---
 
-⸻
-
-🤖 Employee Attrition Prediction
-
-Machine Learning • Logistic Regression • Random Forest
+### 🤖 Employee Attrition Prediction
+`Machine Learning` `Logistic Regression` `Random Forest`
 
 Developed a predictive machine learning model to forecast employee attrition using HR datasets.
 
-Key Features
+**Key Features**
+- HR data analysis & feature analysis
+- Logistic Regression & Random Forest models
+- Early attrition detection
 
-* HR data analysis
-* Employee attrition prediction
-* Feature analysis
-* Logistic Regression
-* Random Forest
-* Early attrition detection
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+## 💼 Professional Experience
 
-💼 Professional Experience
+**DevSecOps Engineer** · Cytrusst Intelligence
+*2025 – Present · Bengaluru*
+- Developed and maintained Jenkins CI/CD pipelines
+- Automated application delivery to Amazon EKS
+- Remediated CSPM issues involving IAM, security groups and logging
+- Managed internal IT operations and access control
+- Provisioned and maintained infrastructure; configured redundant dev infrastructure
+- Deployed containerized AI applications & WebSocket servers using Docker
+- Monitored infrastructure and APIs using Prometheus; built Grafana dashboards
+- Configured Blackbox Exporter and real-time Alertmanager notifications
 
-DevSecOps Engineer
+**Security Analyst Intern** · Cytrusst Intelligence
+*2024 – 2025 · Bengaluru*
+- Monitored security alerts using Wazuh SIEM; worked with SentinelOne EDR
+- Performed vulnerability assessments and supported patch management
+- Configured NGINX reverse proxy; implemented SSL/TLS security
+- Assisted with Linux administration
+- Managed endpoints using ManageEngine Endpoint Central
+- Implemented browser security hardening
+- Created security operation SOPs; supported incident analysis
 
-Cytrusst Intelligence
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-2025 – Present · Bengaluru
+## 🛡️ Security Experience
 
-* Developed and maintained Jenkins CI/CD pipelines
-* Automated application delivery to Amazon EKS
-* Remediated CSPM issues involving IAM, security groups and logging
-* Managed internal IT operations and access control
-* Provisioned and maintained infrastructure
-* Configured redundant development infrastructure
-* Deployed containerized AI applications
-* Deployed WebSocket servers using Docker
-* Monitored infrastructure and APIs using Prometheus
-* Built Grafana dashboards
-* Configured Blackbox Exporter
-* Implemented real-time Alertmanager notifications
+| Domain | Tooling |
+|---|---|
+| SIEM | Wazuh |
+| EDR | SentinelOne |
+| Endpoint Mgmt | ManageEngine |
+| Cloud Security | AWS IAM / CSPM |
+| Network Security | NGINX / SSL / TLS |
+| Monitoring | CloudWatch / Wazuh |
+| Incident Response | RCA / Jira |
+| Hardening | Browser / Linux |
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-Security Analyst Intern
+## 📈 GitHub Analytics
 
-Cytrusst Intelligence
+<div align="center">
 
-2024 – 2025 · Bengaluru
+<img src="https://github-readme-stats.vercel.app/api?username=arunpranav0803&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=19B7FF&icon_color=19B7FF&text_color=c9d1d9&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpranav0803&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=19B7FF&text_color=c9d1d9&cache_seconds=1800" height="170"/>
 
-* Monitored security alerts using Wazuh SIEM
-* Worked with SentinelOne EDR
-* Performed vulnerability assessments
-* Supported patch management
-* Configured NGINX reverse proxy
-* Implemented SSL/TLS security
-* Assisted with Linux administration
-* Managed endpoints using ManageEngine Endpoint Central
-* Implemented browser security hardening
-* Created security operation SOPs
-* Supported security monitoring and incident analysis
+<br/>
 
-⸻
+<img src="https://streak-stats.demolab.com?user=arunpranav0803&theme=radical&hide_border=true&background=0f2027&ring=19B7FF&fire=19B7FF&currStreakLabel=19B7FF" />
 
-🛡️ Security Experience
+</div>
 
-┌─────────────────────────────────────────────┐
-│              SECURITY STACK                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  SIEM              → Wazuh                  │
-│  EDR               → SentinelOne            │
-│  Endpoint Mgmt     → ManageEngine           │
-│  Cloud Security    → AWS IAM / CSPM         │
-│  Network Security  → NGINX / SSL / TLS     │
-│  Monitoring        → CloudWatch / Wazuh     │
-│  Incident Response → RCA / Jira             │
-│  Hardening         → Browser / Linux        │
-│                                             │
-└─────────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+## 📊 Contribution Graph
 
-📈 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunpranav0803&theme=react-dark&hide_border=true&bg_color=0f2027&color=19B7FF&line=19B7FF&point=ffffff&area=true&area_color=19B7FF" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunpranav0803&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpranav0803&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arunpranav0803&theme=transparent&hide_border=true" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+## 🎯 Current Focus
 
-📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunpranav0803&theme=github-compact&hide_border=true" width="100%"/>
-</p>
-
-⸻
-
-🎯 Current Focus
-
-Cloud Security
-████████████████████░ 90%
-DevSecOps
-███████████████████░░ 85%
-AWS
-███████████████████░░ 85%
-Kubernetes
-█████████████████░░░░ 80%
-CI/CD Automation
-███████████████████░░ 85%
-Observability
-██████████████████░░░ 80%
+| Skill | Progress |
+|---|---|
+| Cloud Security | ████████████████████░ 90% |
+| DevSecOps | ███████████████████░░ 85% |
+| AWS | ███████████████████░░ 85% |
+| Kubernetes | █████████████████░░░░ 80% |
+| CI/CD Automation | ███████████████████░░ 85% |
+| Observability | ██████████████████░░░ 80% |
 
 Currently focusing on:
+`AWS Cloud Security` `DevSecOps Engineering` `Kubernetes & EKS` `CI/CD Automation` `Infrastructure as Code` `Observability` `Cybersecurity` `Infrastructure Automation`
 
-* ☁️ AWS Cloud Security
-* 🔐 DevSecOps Engineering
-* ☸️ Kubernetes & Amazon EKS
-* 🚀 CI/CD Automation
-* 🏗️ Infrastructure as Code
-* 📊 Observability
-* 🛡️ Cybersecurity
-* ⚙️ Infrastructure Automation
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+## 🧩 What I Build
 
-🧩 What I Build
-
+```
           CLOUD
             │
             ▼
@@ -379,54 +325,39 @@ Currently focusing on:
             │
             ▼
     RELIABLE SYSTEMS
+```
 
-⸻
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-🎓 Education
+## 🎓 Education
 
-B.E. Computer Science & Engineering
-
+**B.E. Computer Science & Engineering**
 Bannari Amman Institute of Technology
+*2020 – 2024 · 7.6 CGPA*
 
-2020 – 2024 · 7.6 CGPA
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+## 🌱 Interests
 
-🌱 Interests
+`DevOps & DevSecOps` `API Monitoring & Observability` `CI/CD Automation` `Cybersecurity & Threat Detection` `Cloud Infrastructure` `Cloud Security` `Kubernetes` `Infrastructure Automation`
 
-* DevOps & DevSecOps
-* API Monitoring & Observability
-* CI/CD Automation
-* Cybersecurity & Threat Detection
-* Cloud Infrastructure
-* Cloud Security
-* Kubernetes
-* Infrastructure Automation
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:19B7FF&height=3&section=header" width="100%"/>
 
-⸻
+<div align="center">
 
-🤝 Let’s Connect
+## 🤝 Let's Connect
 
-<p align="center">
-<a href="https://github.com/arunpranav0803">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/arunpranav-ks-b706b0245">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arunpranav0803@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<a href="https://github.com/arunpranav0803"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027"/></a>
+<a href="https://www.linkedin.com/in/arunpranav-ks-b706b0245"><img src="https://img.shields.io/badge/LinkedIn-Connect-19B7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027"/></a>
+<a href="mailto:arunpranav0803@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-19B7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f2027"/></a>
 
-⸻
+<br/><br/>
 
-<p align="center">
-  <b>Building secure infrastructure. Automating everything possible.</b>
-</p>
-<p align="center">
-  <i>Automate • Secure • Observe • Scale</i>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunpranav0803&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+**Building secure infrastructure. Automating everything possible.**
+*Automate • Secure • Observe • Scale*
+
+<img src="https://komarev.com/ghpvc/?username=arunpranav0803&label=Profile%20Views&color=19B7FF&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:19B7FF,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
